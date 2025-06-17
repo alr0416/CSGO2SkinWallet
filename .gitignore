@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs and local debug files
+*.log
+*.pot
+*.mo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# Tkinter cache (in rare cases)
+*.tcl
